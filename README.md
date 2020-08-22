@@ -1,4 +1,4 @@
-### Heya 👋, I'm Nick Chapsas
+### Hey 👋, I'm Nick Chapsas
 
 [![](https://vistr.dev/badge?repo=elfocrash.elfocrash&corners=square)](https://github.com/Elfocrash/vistr.dev)
 [![](https://img.shields.io/badge/-@nickchapsas-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/nickchapsas)
