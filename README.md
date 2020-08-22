@@ -8,6 +8,8 @@
 
 I'm creating software engineering video on my [YouTube channel](https://www.youtube.com/c/Elfocrash). If you're interested in all things .NET make sure you check it out 😄!
 
+Want to have a project visitor badge as well? Simply add this to your readme `![](https://vistr.dev/badge?repo=username.repoName)` and replace `username` and `repoName` with the correct values.
+
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=elfocrash&show_icons=true&theme=dracula)
