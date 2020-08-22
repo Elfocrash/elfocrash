@@ -10,3 +10,6 @@ I'm creating software engineering video on my [YouTube channel](https://www.yout
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=elfocrash&show_icons=true&theme=dracula)
+
+## Testing area
+![](https://github-visitors.azurewebsites.net/api/badge)
