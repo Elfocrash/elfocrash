@@ -17,3 +17,13 @@ Want to have a project visitor badge as well? Simply add this to your readme `![
 ## 𝗦𝘁𝗮𝘁𝘀
 
 ![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=elfocrash&show_icons=true&theme=dracula)
+
+## Merch
+
+Grab some cool swag from the [Keep coding shop](https://keepcoding.shop)
+
+| .NET 6 release | Keep coding | I ♥ .NET |
+| -------------- | ----------- | -------- |
+| [<img src="https://vangogh.teespring.com/v3/image/_wnoBIbwSv49zWiPhaZl8ml4tdg/800/800.jpg" alt=".NET 6 release" width="300"/>](https://keepcoding.shop/listing/pixels-dot-net-6-release?product=793&variation=103543&size=4470) | [<img src="https://vangogh.teespring.com/v3/image/XTvhq5wyECCl1N_-RYRTC6aSvgM/800/800.jpg" alt="Keep coding" width="300"/>](https://keepcoding.shop/listing/keep-coding-s-2021?product=793) | [<img src="https://vangogh.teespring.com/v3/image/9ZPwuV-_vbOTrOInzslgV1Sh_Sc/800/800.jpg" alt=".NET 6 release" width="300"/>](https://keepcoding.shop/listing/pixels-light-i-love-dotnet?product=387) |
+
+
