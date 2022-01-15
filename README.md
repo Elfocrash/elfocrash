@@ -18,12 +18,12 @@ Want to have a project visitor badge as well? Simply add this to your readme `![
 
 ![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=elfocrash&show_icons=true&theme=dracula)
 
-## Merch
+## Courses
 
-Grab some cool swag from the [Keep coding shop](https://keepcoding.shop)
+Are you looking for more premium training? Check out my courses at [nickchapsas.com](https://nickchapsas.com)
 
-| .NET 6 release | Keep coding | I ♥ .NET |
-| -------------- | ----------- | -------- |
-| [<img src="https://vangogh.teespring.com/v3/image/_wnoBIbwSv49zWiPhaZl8ml4tdg/800/800.jpg" alt=".NET 6 release" width="300"/>](https://keepcoding.shop/listing/pixels-dot-net-6-release?product=793&variation=103543&size=4470) | [<img src="https://vangogh.teespring.com/v3/image/XTvhq5wyECCl1N_-RYRTC6aSvgM/800/800.jpg" alt="Keep coding" width="300"/>](https://keepcoding.shop/listing/keep-coding-s-2021?product=793) | [<img src="https://vangogh.teespring.com/v3/image/9ZPwuV-_vbOTrOInzslgV1Sh_Sc/800/800.jpg" alt=".NET 6 release" width="300"/>](https://keepcoding.shop/listing/pixels-light-i-love-dotnet?product=387) |
+| Unit testing in C# | Dependency injection in .NET with C# |
+| -------------- | ----------- |
+| [<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/d69d527e9ab44ee1b31eb74f9b2bdde1/bf8a786bcca44a10a0ee804eac4b4b94" alt="unit testing" width="300"/>](https://nickchapsas.com/p/from-zero-to-hero-unit-testing-in-c) | [<img src="https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://file-uploads.teachablecdn.com/b21205d42c3a47a58e57a3ebff7432e1/91d249c726a144f29e226f5bbeb1737a" alt="dependency injection" width="300"/>](https://nickchapsas.com/p/from-zero-to-hero-dependency-injection-in-net) |
 
 
